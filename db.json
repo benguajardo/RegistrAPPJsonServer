@@ -51,7 +51,7 @@
       "dv": "1",
       "nombre": "Nicolás",
       "apellido": "Canales",
-      "Docente": "False",
+      "docente": "False",
       "correo": "ni.canalesm@duocuc.cl",
       "contraseña": "nico123",
       "carrera": "1",
