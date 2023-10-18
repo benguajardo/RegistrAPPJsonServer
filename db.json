@@ -51,9 +51,20 @@
       "dv": "1",
       "nombre": "Nicolás",
       "apellido": "Canales",
-      "docente": "False",
+      "docente": false,
       "correo": "ni.canalesm@duocuc.cl",
       "contraseña": "nico123",
+      "carrera": "1",
+      "sede": "1"
+    },
+        {
+      "run": "22222222",
+      "dv": "2",
+      "nombre": "Julio",
+      "apellido": "Tapia",
+      "docente": true,
+      "correo": "jul.tapia@profesor.duoc.cl",
+      "contraseña": "julio123",
       "carrera": "1",
       "sede": "1"
     }
@@ -61,11 +72,18 @@
   "Horario": [
     {
       "id": "1",
-      "runUsuario": "1",
       "idClase": "11111111",
       "dia": "04-10-2023",
       "horaInicio" : "11:30",
       "horaTermino" : "13:40"
     }
-  ]
+  ],
+    "DetalleHorario": [
+    {
+      "id": "1",
+      "idHorario": "1",
+      "runUsuario": "11111111",
+      "presente": false
+    }
+  ],
 }
