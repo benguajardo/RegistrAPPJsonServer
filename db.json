@@ -80,12 +80,12 @@
       "horaTermino" : "13:40"
     }
   ],
-    "DetalleHorario": [
+  "DetalleHorario": [
     {
       "id": "1",
       "idHorario": "1",
       "runUsuario": "11111111",
       "presente": false
     }
-  ],
+  ]
 }
