@@ -1,53 +1,26 @@
-{
-  "Sede": [
-    {
-      "id": "1",
-      "nombre": "Puente Alto",
-      "direccion": "acá"
-    },
-    {
-      "id": "2",
-      "nombre": "San Joaquín",
-      "direccion": "allá"
-    },
-    {
-      "id": "3",
-      "nombre": "San Bernardo",
-      "direccion": "más allá"
-    }
-  ],
-  "Carrera": [
-    {
-      "id": "1",
-      "nombre": "Ingeniería en informática"
-    },
-    {
-      "id": "2",
-      "nombre": "Preparador Físico"
-    }
-  ],
   "Clase": [
     {
-      "id": "1",
+      "id": 1,
       "sigla": "PGY-4111",
       "seccion": "007",
       "jornada": "D",
       "nombre": "Ingeniería en informática",
       "docente": "Panshoots",
-      "sede": "1",
-      "carrera": "1"
+      "dia": "04-10-2023",
+      "horaInicio" : "11:30",
+      "horaTermino" : "13:40"
     }
   ],
   "CodigoQR": [
     {
-      "id": "1",
-      "idClase": "1",
+      "id": 1,
+      "idClase": 1,
       "imagen": "https://api.qrserver.com/v1/create-qr-code/?data=1-LC10-PGY4121-007D-Puente Alto-0&size=150x150"
     }
   ],
   "Usuario": [
     {
-      "id": "1",
+      "id": 1,
       "run": "11111111",
       "dv": "1",
       "nombre": "Nicolás",
@@ -55,11 +28,11 @@
       "docente": false,
       "correo": "ni.canalesm@duocuc.cl",
       "contrasena": "nico123",
-      "carrera": "1",
-      "sede": "1"
+      "carrera": "Ingeniería en informática",
+      "imagen": "https://static.wikia.nocookie.net/mamarre-estudios-espanol/images/5/54/CUVcOWP4.jpg/revision/latest?cb=20201009210428&path-prefix=es"
     },
         {
-      "id": "2",
+      "id": 2,
       "run": "22222222",
       "dv": "2",
       "nombre": "Julio",
@@ -67,25 +40,8 @@
       "docente": true,
       "correo": "jul.tapia@profesor.duoc.cl",
       "contrasena": "julio123",
-      "carrera": "1",
-      "sede": "1"
-    }
-  ],
-  "Horario": [
-    {
-      "id": "1",
-      "idClase": "11111111",
-      "dia": "04-10-2023",
-      "horaInicio" : "11:30",
-      "horaTermino" : "13:40"
-    }
-  ],
-  "DetalleHorario": [
-    {
-      "id": "1",
-      "idHorario": "1",
-      "runUsuario": "11111111",
-      "presente": false
+      "carrera": "Ingeniería en informática",
+      "imagen" : "https://media.licdn.com/dms/image/C5603AQExyrZBcecs2A/profile-displayphoto-shrink_800_800/0/1517482337073?e=1699488000&v=beta&t=bdow3LUlu6jlieCNAlOuDvXvLh7WjwdtcPp6DH83w6U"
     }
   ]
-}
+
