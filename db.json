@@ -30,18 +30,6 @@
       "contrasena": "nico123",
       "carrera": "Ingeniería en informática",
       "imagen": "https://static.wikia.nocookie.net/mamarre-estudios-espanol/images/5/54/CUVcOWP4.jpg/revision/latest?cb=20201009210428&path-prefix=es"
-    },
-    {
-      "id": 2,
-      "run": "22222222",
-      "dv": "2",
-      "nombre": "Julio",
-      "apellido": "Tapia",
-      "docente": true,
-      "correo": "jul.tapia@profesor.duoc.cl",
-      "contrasena": "julio123",
-      "carrera": "Ingeniería en informática",
-      "imagen" : "https://media.licdn.com/dms/image/C5603AQExyrZBcecs2A/profile-displayphoto-shrink_800_800/0/1517482337073?e=1699488000&v=beta&t=bdow3LUlu6jlieCNAlOuDvXvLh7WjwdtcPp6DH83w6U"
     }
   ]
 
