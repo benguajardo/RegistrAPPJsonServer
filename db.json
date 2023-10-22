@@ -10,7 +10,8 @@
       "dia": "04-10-2023",
       "horaInicio" : "11:30",
       "horaTermino" : "13:40",
-      "sede": "puente alto"
+      "sede": "puente alto",
+      "sala": "lc8"
     }
   ],
   "CodigoQR": [
