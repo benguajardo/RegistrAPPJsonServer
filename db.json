@@ -4,6 +4,32 @@
   "CodigoQR": [
   ],
   "Usuario": [
+    {
+    "id": "ni.canalesm@duocuc.cl",
+    "run": "21.240.828-5",
+    "dv": "",
+    "nombre": "Nicolás",
+    "apellido": "Canales",
+    "docente": false,
+    "correo": "ni.canalesm@duocuc.cl",
+    "contrasena": "nico123",
+    "carrera": "ingeniería en informática",
+    "sede": "Salt Lake City",
+    "imagen": "https://robohash.org/330-29-2045"
+  },
+  {
+    "id": "jul.tapia@profesor.duoc.cl",
+    "run": "12.518.498-K",
+    "dv": "",
+    "nombre": "Julio",
+    "apellido": "Tapia",
+    "docente": true,
+    "correo": "jul.tapia@profesor.duoc.cl",
+    "contrasena": "julio123",
+    "carrera": "ingeniería en informática",
+    "sede": "Puente Alto",
+    "imagen": "https://campusvirtual.duoc.cl/avatar/user/_81414_1?ts=1698331634992"
+  }
   ],
   "estudiantePresente": [
   ]
